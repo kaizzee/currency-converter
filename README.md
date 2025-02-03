@@ -77,8 +77,8 @@ mvn test
 ```
 
 ## API Documentation
-- The API documentation can be generated using Swagger (if implemented).
+
 
 ## License
-This project is licensed under the MIT License.
+
 
